@@ -1,0 +1,25 @@
+{
+  "files": {
+    "main.css": "/static/css/main.6dea0f05.chunk.css",
+    "main.js": "/static/js/main.bc4187a6.chunk.js",
+    "main.js.map": "/static/js/main.bc4187a6.chunk.js.map",
+    "runtime-main.js": "/static/js/runtime-main.ab85eab3.js",
+    "runtime-main.js.map": "/static/js/runtime-main.ab85eab3.js.map",
+    "static/js/2.e161edda.chunk.js": "/static/js/2.e161edda.chunk.js",
+    "static/js/2.e161edda.chunk.js.map": "/static/js/2.e161edda.chunk.js.map",
+    "static/js/3.63fb59fc.chunk.js": "/static/js/3.63fb59fc.chunk.js",
+    "static/js/3.63fb59fc.chunk.js.map": "/static/js/3.63fb59fc.chunk.js.map",
+    "index.html": "/index.html",
+    "static/css/main.6dea0f05.chunk.css.map": "/static/css/main.6dea0f05.chunk.css.map",
+    "static/js/2.e161edda.chunk.js.LICENSE.txt": "/static/js/2.e161edda.chunk.js.LICENSE.txt",
+    "static/media/fill.4e211ed6.svg": "/static/media/fill.4e211ed6.svg",
+    "static/media/pencil.962e7af9.svg": "/static/media/pencil.962e7af9.svg",
+    "static/media/rectangle.5112e12f.svg": "/static/media/rectangle.5112e12f.svg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.ab85eab3.js",
+    "static/js/2.e161edda.chunk.js",
+    "static/css/main.6dea0f05.chunk.css",
+    "static/js/main.bc4187a6.chunk.js"
+  ]
+}
